@@ -8,7 +8,7 @@ Every solid project starts with a well structured readme. The following is a com
 * [Usage](##Usage)
 * [Questions](##Questions)
 
-## Tech-and-concepts-used 
+## Tech and concepts used 
 * Node/npm
 * Inquirer
 * Node Filesystem Methods 
