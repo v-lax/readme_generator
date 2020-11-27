@@ -2,6 +2,8 @@ function createMarkDown(userResponses){
     let markDownBase = `
 # ${userResponses.projectName}
 
+![License:${userResponses.licenses}](https://img.shields.io/badge/License-${userResponses.licenses.split(" ").join("")}-blue)
+
 ## Description
 
 ${userResponses.projectDescription}
