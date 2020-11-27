@@ -3,7 +3,7 @@ Every solid project starts with a well structured readme. The following is a com
 
 ## Table of Contents
 
-* [Tech used](##Tech-and-Concepts-used)
+* [Tech used](##Tech-and-concepts-used)
 * [Installation](##Installation)
 * [Usage](##Usage)
 * [Questions](##Questions)
@@ -13,6 +13,7 @@ Every solid project starts with a well structured readme. The following is a com
 * Inquirer
 * Node Filesystem Methods 
 * Modular Javascript
+* HipSum 'Hipster Lorem Ipsum Generator'
 
 ## Installation 
 
@@ -20,7 +21,9 @@ Installation is pretty simple. Just fork this repo and clone to your local compu
 
 ## Usage 
 
-Using this app is also pretty straigh forward. Open up your terminal to the root directory of this project and simply run the following command - 'node index.js'. Your terminal will then prompt you to answer some basic questions about your project and after all that is done, it will create a readme file for you. If your still confused on how it works, head over to example folder in this repo. It contains a video of how to use this project as well as a sample readme file created by this project. 
+Using this app is also pretty straigh forward. Open up your terminal to the root directory of this project and simply run the following command - 'node index.js'. Your terminal will then prompt you to answer some basic questions about your project and after all that is done, it will create a readme file for you. If your still confused on how it works, head over to example folder in this repo. It contains a GIF of how to use this project as well as a sample readme file created by this project. You can also view the gif below as well. 
+
+![Screen Capture of App](./example/screen_capture.gif)
 
 ## Questions
 
