@@ -11,11 +11,11 @@ ${userResponses.projectDescription}
 
 const tableOfContents = `
 ## Table of Contents
-* [Installation](##Installation)
-* [Usage](##Usage)
-* [Contributing](##Contributing)
-* [Testing](##Testing)
-* [Questions](##Questions?)`
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Contributing](#Contributing)
+* [Testing](#Testing)
+* [Questions](#Questions?)`
 
 let instDescription = `
 ## Installation
